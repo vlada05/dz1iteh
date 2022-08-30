@@ -1,0 +1,14 @@
+body{
+    background-image: url("https://cdn.shopify.com/s/files/1/0773/9449/files/Screen_Shot_2020-12-14_at_6.15.26_PM.png?v=1607969746");
+}
+
+h1{
+   text-align: center;
+}
+.prviDiv{
+    margin-bottom:5px;
+    align-self: center;
+}
+li{
+    cursor: pointer;
+}
